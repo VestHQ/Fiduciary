@@ -1,0 +1,19 @@
+# General
+permalink   : /:categories/:title/
+markdown    : kramdown
+highlighter : rouge
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+gems: [bourbon, neat]
+
+# Site settings
+title: Fiduciary
+description: "A curated list of 401k companies"
+keywords: fintech, curators, social
+email: tripathi@vesthq.com
+url: https://vesthq.github.io/Fiduciary/
+repository: https://github.com/vesthq/fiduciary
+google_analytics: UA-92446833-1
